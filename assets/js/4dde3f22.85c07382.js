@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[957],{7588:e=>{e.exports=JSON.parse('{"label":"log","permalink":"/docs/tags/log","allTagsPath":"/docs/tags","count":1,"items":[{"id":"releaselog/GeneralUpdateReleaselog","title":"GeneralUpdate","description":"\ud83d\udccd2023-08-05","permalink":"/docs/releaselog/releaselog"}],"unlisted":false}')}}]);

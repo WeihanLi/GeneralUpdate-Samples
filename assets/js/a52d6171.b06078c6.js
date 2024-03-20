@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[596],{936:e=>{e.exports=JSON.parse('{"title":"Doc","description":"GeneralUpdate\u5f00\u6e90\u9879\u76ee\u5728\u7ebf\u6587\u6863.","slug":"/category/doc","permalink":"/docs/category/doc","navigation":{"next":{"title":"Component Introduction","permalink":"/docs/doc/Component Introduction"}}}')}}]);
